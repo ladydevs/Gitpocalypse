@@ -1,4 +1,5 @@
-Ahh. This is some fine dev work right here. It will solve all the problems in
-the 'needs_a_merge' branch!
+GROSS.
 
-Let's merge it in.
+This feature has problems that someone else already fixed! The changes are in master.
+
+Lets merge them in!
