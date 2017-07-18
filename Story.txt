@@ -1,1 +1,3 @@
 Once, a house was on fire.
+
+This is terrible. Resolve the merge conflict so we can have a nice story!
