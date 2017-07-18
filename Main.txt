@@ -1,1 +1,4 @@
 Welcome to the Gitpocalypse!
+
+Fork this repo to your personal Github profile, then put on 
+your detective hat and work through *all* the git-ssues.
