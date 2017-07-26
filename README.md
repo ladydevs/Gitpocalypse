@@ -39,3 +39,25 @@ Then, run the command:
 
 ##### MacOS
 ```git clone <copy-pasted url> ``` 
+
+Now you have the repo!
+
+The two most important branches are master and Workshop. Master and Workshop
+are identical, and mirror a common convention in professional apps - do your
+work in Workshop (a development or staging branch) and keep Master around in
+case you need to revert, and sync them only when you've finalized changes (if
+you want).
+
+The repo contains lots of branches - most to practice specific commands or solve
+problems - but feel free to make your own! Use this repo to replicate your
+current problem and fine-tune your solution so you don't loose hours of work, or
+to level up your applied Gitology.
+
+## How to read this tutorial
+
+Checkout the Intro, Intermediate, and Advanced Cheetsheets for a list of git 
+commands and the files and branches dedicated to exploring them.
+
+Checkout the Intro, Intermediate and Advanced Problem Set for a list of all the
+branches and files that you can practice your detective skills and identify the
+problem without any hints on how to go about it.
