@@ -36,7 +36,7 @@ Don't panic even if there's red on the screen. All this means is that you typed
 a change in 'IntroCheatSheet.md' (or in some other file) in the branch `master`
 (or whatever branch you're in) and saved that change locally. To undo the
 change, use the command, then try again.
-```git checkout -- RedFileName.md```
+```git checkout -- IntroCheatSheet.md```
 
 Response 3:
 
