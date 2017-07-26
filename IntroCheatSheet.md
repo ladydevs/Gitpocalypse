@@ -40,6 +40,10 @@ change, use the command, then try again.
 
 Response 3:
 
-```  ```
+```
+On branch Workshop
+Your branch is up-to-date with 'origin/Workshop'.
+nothing to commit, working tree clean
+```
 
 WOOT. This is what we expect if we've made no changes nor checked anything out.
